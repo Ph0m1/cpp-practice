@@ -1,0 +1,3 @@
+/home/ph0m/cpp/pratice/cmake-build-debug/CMakeFiles/pratice.dir
+/home/ph0m/cpp/pratice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ph0m/cpp/pratice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
